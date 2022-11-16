@@ -1,0 +1,65 @@
+.list-view {
+    -fx-border-width: 0;
+    -fx-background-insets: 0px 0px 0px 0px;
+    -fx-background-color: transparent;
+    -fx-font-family: "幼圆";
+    -fx-font-size: 16;
+
+}
+
+.list-view .list-cell {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+
+}
+
+.list-view .list-cell:odd {
+    /*-fx-background-color: transparent;*/
+    -fx-background-color: transparent;
+}
+
+.list-view .list-cell:hover {
+    -fx-background-color: rgba(30, 205, 150, 0.2);
+}
+
+
+.list-view:focused .list-cell:selected {
+    -fx-background-color: linear-gradient(from 0.0% 0.0% to 100.0% 0.0%, #23d0f3ff 0.0%, #d791f9ff 50.0%, #fe7b84ff 100.0%);
+}
+
+.list-view .scroll-bar:vertical {
+    -fx-padding: 0px 0px 0px 0px;
+    -fx-pref-width: 5px;
+    -fx-background-color: null;
+}
+
+.list-view .scroll-bar:vertical .thumb {
+    -fx-background-color: rgba(30, 205, 150, 0.5);
+    -fx-background-insets: 0px 0px 0px 0px;
+    /*-fx-background-radius: 5px 5px 5px 5px;*/
+}
+.list-view .scroll-bar:vertical .thumb:hover {
+    -fx-background-color: #06f5a8;
+}
+
+.list-view .scroll-bar:vertical .thumb:pressed {
+    -fx-background-color: #323e3a;
+
+}
+
+.list-view .scroll-bar:horizontal {
+    -fx-padding: 0px 0px 0px 0px;
+    -fx-pref-height: 5px;
+    -fx-background-color: null;
+}
+
+.list-view .scroll-bar:horizontal .thumb {
+    -fx-background-color: rgba(30, 205, 150, 0);
+    -fx-background-insets: 0px 0px 0px 0px;
+    /*-fx-background-radius: 5px 5px 5px 5px;*/
+}
+
+.list-view .scroll-bar:horizontal .thumb:pressed {
+    -fx-background-color: #1ecd96;
+
+}

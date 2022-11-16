@@ -1,0 +1,14 @@
+.slider .track {
+    -fx-background-color: rgba(228, 231, 237, 1);
+}
+
+.slider .thumb {
+    -fx-background-color: rgba(255, 255, 255, 1);
+    -fx-border-color: rgba(64, 158, 255, 1);
+    -fx-border-radius: 1em 1em 1em 1em;
+    -fx-cursor: HAND;
+}
+
+.slider .thumb:pressed {
+    -fx-background-color: linear-gradient(from 0.0% 0.0% to 100.0% 0.0%, #193237ff 0.0%, #2e4e58ff 50.0%, #39687cff 100.0%);
+}
