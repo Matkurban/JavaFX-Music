@@ -6,3 +6,4 @@
 ## English
 This is a JavaFx practice project. The song resources are all open resources on the Internet, and the request address interface used is agreed to come from 🎵 Mingyue Haokong.com - the perpetual free HTML5 website music player (myhkw.cn).
 Request tool using the novice 🎁 introduction | Forest (dtflyx.com), the way of pure code, not not FXML, but people don't like to use, don't like suddenly gush. Click on "star" if you like.
+
