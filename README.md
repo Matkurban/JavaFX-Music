@@ -5,6 +5,9 @@
 
 安装包阿里云下载地址:https://www.aliyundrive.com/s/cxoYPjV4aRx
 
+
+Screenshot/音乐.png
+
 ## English
 This is a JavaFx practice project. The song resources are all open resources on the Internet, and the request address interface used is agreed to come from 🎵 Mingyue Haokong.com - the perpetual free HTML5 website music player (myhkw.cn).
 Request tool using the novice 🎁 introduction | Forest (dtflyx.com), the way of pure code, not not FXML, but people don't like to use, don't like suddenly gush. Click on "star" if you like.
