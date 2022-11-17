@@ -5,8 +5,7 @@
 
 安装包阿里云下载地址:https://www.aliyundrive.com/s/cxoYPjV4aRx
 
-
-Screenshot/音乐.png
+.<div align=center><img src="JavaFX-Music/音乐.png at main · Matkurban/JavaFX-Music (github.com)" width="300" height="450" /></div>
 
 ## English
 This is a JavaFx practice project. The song resources are all open resources on the Internet, and the request address interface used is agreed to come from 🎵 Mingyue Haokong.com - the perpetual free HTML5 website music player (myhkw.cn).
