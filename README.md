@@ -4,9 +4,6 @@
 请求工具使用的是🎁 新手介绍 | Forest (dtflyx.com),纯代码的方式实现,不是不会fxml,而是个人不喜欢用,不喜忽喷.喜欢的话点个star.
 
 安装包阿里云下载地址:https://www.aliyundrive.com/s/cxoYPjV4aRx
-
-.<div align=center><img src="https://www.aliyundrive.com/s/Lao4qNJYxQe" width="300" height="450" /></div>
-
 ![alt](Screenshot/音乐.png "title")
 
 ## English
